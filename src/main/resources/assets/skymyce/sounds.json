@@ -1,0 +1,10 @@
+{
+  "fart": {
+    "subtitle": "sound.skymyce.fart",
+    "sounds": ["skymyce:fart"]
+  },
+  "metal_pipe": {
+    "subtitle": "sound.skymyce.metal_pipe",
+    "sounds": ["skymyce:metal_pipe"]
+  }
+}
